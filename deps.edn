@@ -1,0 +1,2 @@
+{:deps {cc.qbits/alia {:mvn/version "5.0.0"}
+        missionary/missionary {:mvn/version "b.28"}}}
